@@ -1,0 +1,15 @@
+apiIntegrationTest\ProfileAPITestApi.class
+o2technologies\test\IntegrationTesting_UI_DB.class
+o2technologies\pages\ConfigerWorkflowButton.class
+o2technologies\utils\Excel_InputValues.class
+apiIntegrationTest\ProfileAPITestSQL.class
+o2technologies\test\GlobalProfileTest.class
+o2technologies\utils\DatabaseUtils.class
+o2technologies\utils\readexceldata$1.class
+o2technologies\pages\LoginPage.class
+TestSuitRunner\TestRunner.class
+o2technologies\utils\InputValues.class
+o2technologies\utils\readexceldata.class
+o2technologies\pages\GlobalProfilePage.class
+o2technologies\pages\SearchNewCandidatesPage.class
+o2technologies\test\SearchCandidateTest.class

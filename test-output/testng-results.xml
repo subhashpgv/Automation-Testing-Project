@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-23T16:25:24 IST" name="Default suite" finished-at="2024-07-23T16:25:35 IST" duration-ms="10974">
+    <groups>
+    </groups>
+    <test started-at="2024-07-23T16:25:24 IST" name="Default test" finished-at="2024-07-23T16:25:35 IST" duration-ms="10974">
+      <class name="apiIntegrationTest.ProfileAPITestSQL">
+        <test-method signature="testAddProfile()[pri:1, instance:apiIntegrationTest.ProfileAPITestSQL@35e2d654]" started-at="2024-07-23T16:25:24 IST" name="testAddProfile" finished-at="2024-07-23T16:25:34 IST" duration-ms="10349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProfile -->
+        <test-method signature="verifyDataInDatabase()[pri:2, instance:apiIntegrationTest.ProfileAPITestSQL@35e2d654]" started-at="2024-07-23T16:25:34 IST" name="verifyDataInDatabase" finished-at="2024-07-23T16:25:35 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataInDatabase -->
+      </class> <!-- apiIntegrationTest.ProfileAPITestSQL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

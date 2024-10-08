@@ -1,0 +1,20 @@
+ [
+ 	{
+    "ProfileNameInput": "TestSelenium25",
+    "NameInput": "TestSelenium277686",
+    "CompanyNameInput": "TestSelenium",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "EmailIDInput":"asdafas@gmail.com",
+    "PasswordInput":"125478989",
+    "conditionInput": "with valid Email address"
+ 	},
+ 	{
+    "ProfileNameInput": "TestSelenium26",
+    "NameInput": "TestSelenium27746",
+    "CompanyNameInput": "TestSelenium",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "EmailIDInput":"asdafasgmail.com",
+    "PasswordInput":"125478989",
+    "conditionInput": "with Invalid Email address"
+ 	}
+  ]

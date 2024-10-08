@@ -1,0 +1,11 @@
+[
+ 	{
+    "ProfileNameInput": "UI_test",
+    "NameInput": "UI_test",
+    "CompanyNameInput": "uitest",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "EmailIDInput":"Uitest@gmail.com",
+    "PasswordInput":"125478989",
+    "conditionInput": "with valid Email address"
+ 	}
+  ]

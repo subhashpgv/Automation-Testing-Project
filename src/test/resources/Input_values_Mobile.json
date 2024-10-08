@@ -1,0 +1,34 @@
+[
+  {
+    "ProfileNameInput": "TestSelenium10",
+    "NameInput": "TestSelenium7768",
+    "CompanyNameInput": "TestSelenium",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "PhoneNumberInput":"0123456789",
+    "conditionInput": "With all valid inputs"
+ },
+ {
+    "ProfileNameInput": "TestSelenium11",
+    "NameInput": "TestSelenium7768",
+    "CompanyNameInput": "TestSelenium",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "PhoneNumberInput":"01234516789",
+    "conditionInput": "With same Name"
+  },
+   {
+    "ProfileNameInput": "TestSelenium12",
+    "NameInput": "TestSelenium57764",
+    "CompanyNameInput": "TestSelenium",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "PhoneNumberInput":"012345dfgd16789",
+    "conditionInput": "With invalid Phone number"
+  },
+   {
+    "ProfileNameInput": "TestSelenium13",
+    "NameInput": "TestSelenium77785",
+    "CompanyNameInput": "TestSelenium",
+    "CompanyURLInput": "https://www.tcs.com/careers",
+    "PhoneNumberInput":"01234516789",
+    "conditionInput": "With invalid URL"
+  }
+]
